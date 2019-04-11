@@ -1,0 +1,26 @@
+{
+  "name": "african-food",
+  "version": "1.0.0",
+  "description": "A platform to bring all the African restaurants and caterers together in one place",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksimKorzh/african-food.git"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "*",
+    "nodemon": "^1.18.10"
+  },
+  "author": "Maksim Korzh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksimKorzh/african-food/issues"
+  },
+  "homepage": "https://github.com/maksimKorzh/african-food#readme"
+}

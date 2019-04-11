@@ -1,0 +1,7 @@
+[
+  { type: "Restaurants" },
+  { type: "Caterers" },
+  { type: "Private Chefs" },
+  { type: "Street Food" },
+  { type: "Drinks" }
+]

@@ -1,0 +1,9 @@
+[
+  { type: "Dairy Free" },
+  { type: "Vegetarian" },
+  { type: "Halal" },
+  { type: "Nut Free" },
+  { type: "Kosher" },
+  { type: "Vegan" },
+  { type: "Gluton Free" }
+]

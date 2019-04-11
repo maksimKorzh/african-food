@@ -1,0 +1,31 @@
+[
+  { 
+    name: "African",
+    countries: [
+      "Nigeria",
+      "Cameroon",
+      "Ghana",
+      "Ethiopia",
+      "Egypt",
+      "DR Congo",
+      "Mauritius",
+      "Morocco",
+      "Mozambique",
+      "Côte d’Ivoire",
+      "Gambia",
+      "Sierra Leone",
+      "South Africa",
+      "Seychelles",
+      "Senegal",
+      "Somalia",
+      "Uganda",
+      "Zimbabwe"
+      ],
+    vendors: ["id_1", "id_2"]
+  },  
+  {
+    name: "Caribbean",
+    countries: ["Jamaica"],
+    vendors: ["id_1", "id_2"]
+  }
+]

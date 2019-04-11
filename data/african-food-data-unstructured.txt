@@ -1,0 +1,67 @@
+"name" : "Orisirisi"
+"description": "The African Food Catering Marketplace"
+"address" : "United Kingdom"
+"delivery service" : "true"
+
+Cuisine >> African
+
+Nigeria
+Cameroon
+Ghana
+Ethiopia
+Egypt
+DR Congo
+Mauritius
+Morocco
+Mozambique
+Côte d’Ivoire
+Gambia
+Sierra Leone
+South Africa
+Seychelles
+Senegal
+Somalia
+Uganda
+Zimbabwe
+
+Cuisine >> Caribbean
+Jamaica
+
+Dietary 
+
+Dairy Free
+Vegetarian
+Halal
+Nut Free
+Kosher
+Vegan
+Gluton Free
+
+
+Food and Drink Vendors
+
+Restaurants
+Caterers
+Private Chefs
+Street Food
+Drinks
+
+
+Services
+
+Weddings
+Parties
+BBQ
+Office Parties
+Festivals
+Drinks and Cocktails
+Corporate Catering
+Desserts
+
+
+Cities
+
+London
+Manchester
+Birmingham
+Oxfordshire
