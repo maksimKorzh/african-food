@@ -13,10 +13,10 @@ router.use(bodyParser.json());
 const mongoose = require('mongoose');
 
 // Connect to cloud server
-//const uri = "mongodb+srv://cmk:342124@todolist-c483l.gcp.mongodb.net/todolist?retryWrites=true";
+const uri = "mongodb+srv://cmk:342124@africanfood-3lrlo.gcp.mongodb.net/africanfood?retryWrites=true";
 
 // Local connection
-const uri = "mongodb://localhost/africanfood";
+//const uri = "mongodb://localhost/africanfood";
 
 var connectionStatus = mongoose.connect(uri, { useNewUrlParser: true }, (err) => {
   if(err){

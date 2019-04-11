@@ -4,7 +4,7 @@ const router = require('./routes/router');
 
 // Init app
 const app = express();
-app.use(express.static(__dirname + '/client'));
+app.use(express.static(__dirname + '/client-customer'));
 app.use('/', router);
 
 // Set up PORT

@@ -2,7 +2,7 @@
   { type: "Weddings" },
   { type: "Parties" },
   { type: "BBQ" },
-  { type: " Office_Parties" },
+  { type: "Office_Parties" },
   { type: "Festivals" },
   { type: "Drinks and Cocktails" },
   { type: "Corporate Catering" },
