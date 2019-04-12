@@ -1,0 +1,22 @@
+[
+  {
+    name: "Enish",
+    description: "Fun loving Nigerian restaurant located in the heart of Lewisham, Croydon and Finchley in London.",
+    city: "London",
+    locations: ["Lewisham", "Croydon", "Finchley"],
+    cuisines: ["Nigerian"],
+    services: ["Private parties"],
+    service_description: "Host a celebration at our restaurant. We a secluded seating area overlooking the rest of the restaurant, we can accommodate parties of up to 80 people. If you'd just like a more relaxed setting with friend our basement has a private lounge which can accommodate up to 17 people. This area includes a full sound system and TV."
+  },
+
+  {
+    name: "Orisirisi",
+    description: "The African Food Catering Marketplace",
+    city: "UK",
+    locations: ["Unknown"],
+    cuisines: ["Cameroon"],
+    services: ["Delivery"],
+    service_description: "No info"
+  }
+  
+]

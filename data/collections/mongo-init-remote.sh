@@ -12,3 +12,6 @@ mongoimport --host africanfood-shard-0/africanfood-shard-00-00-3lrlo.gcp.mongodb
 
 # Create cities collection
 mongoimport --host africanfood-shard-0/africanfood-shard-00-00-3lrlo.gcp.mongodb.net:27017,africanfood-shard-00-01-3lrlo.gcp.mongodb.net:27017,africanfood-shard-00-02-3lrlo.gcp.mongodb.net:27017 --ssl --username cmk --password '342124' --authenticationDatabase admin --db africanfood --collection vendors --drop --type json --file vendors.json --jsonArray
+
+# Create restaurants collection
+mongoimport --host africanfood-shard-0/africanfood-shard-00-00-3lrlo.gcp.mongodb.net:27017,africanfood-shard-00-01-3lrlo.gcp.mongodb.net:27017,africanfood-shard-00-02-3lrlo.gcp.mongodb.net:27017 --ssl --username cmk --password '342124' --authenticationDatabase admin --db africanfood --collection restaurants --drop --type json --file restaurants.json --jsonArray

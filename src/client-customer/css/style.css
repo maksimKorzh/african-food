@@ -2,10 +2,11 @@ img{width:100%;}
 
 body, html {
   height: 100%;
+  margin-bottom: 100px;
 }
 .bg {
   /* The image used */
-  background-image: url("https://zululandobserver.co.za/wp-content/uploads/sites/56/2015/05/AFrican-food.jpg");
+  background-color: #696969;
 
   /* Full height */
   height: 100%;

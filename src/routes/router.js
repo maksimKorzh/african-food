@@ -1,5 +1,6 @@
 // Import models
 const City = require('../models/cities');
+const Restaurant = require('../models/restaurants');
 
 // Init router
 const express = require('express');
@@ -37,6 +38,16 @@ router.get('/api/cities', (req, res) => {
       throw err;
     }
     res.json(cities);
+  })
+});
+
+// Get restaurants
+router.get('/api/restaurants', (req, res) => {
+  Restaurant.getRestaurants((err, restaurants) => {
+    if(err){
+      throw err;
+    }
+    res.json(restaurants);
   })
 });
 

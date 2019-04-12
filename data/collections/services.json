@@ -2,9 +2,11 @@
   { type: "Weddings" },
   { type: "Parties" },
   { type: "BBQ" },
-  { type: "Office_Parties" },
+  { type: "Office parties" },
+  { type: "Private parties" },
   { type: "Festivals" },
   { type: "Drinks and Cocktails" },
   { type: "Corporate Catering" },
-  { type: "Desserts" }
+  { type: "Desserts" },
+  { type: "Delivery"}
 ]

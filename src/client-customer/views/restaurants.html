@@ -1,0 +1,16 @@
+<div class="panel-dark" ng-init="getRestaurants()">
+
+  <div class="container" ng-repeat="restaurant in restaurants.data">
+    <div class="media">
+      <div class="media-body">
+        <h5 class="mt-0">{{ restaurant.name }}</h5>
+        {{ restaurant.description }}
+        <p>city: {{ restaurant.city }}</p>
+        <p>locations: {{ restaurant.locations }}</p>
+        <p>cuisines: {{ restaurant.cuisines[0] }}</p>
+        <p>services: {{ restaurant.services }}</p>
+        <p>service description: {{ restaurant.service_description }}</p>
+      </div>
+    </div>
+  </div>
+</div>
